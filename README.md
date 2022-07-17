@@ -1,6 +1,6 @@
 # README.md
 
-**Heavy WIP!!**
+**Heavy WIP! Revamp in progress!!**
 <br>
 
 <div align="center">Truly#7510</div>
