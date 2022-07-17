@@ -23,12 +23,12 @@
 Current Focus is "Chaosity" by Architech/Digital Destruction/Dynamo Development
 
 [image/github]:
-https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/2/4/2/242ef9aba8411748da7d6b75193f78b96b828434.svg
+Github.png
 
 [github]: https://github.com/TrulyChxse
 
 [image/twitter]:
-https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/e/6/b/e6bf94d62b5c4ba714610e39cf83ff69d6b646ac.svg
+Twitter.png
 
 [twitter]: https://twitter.com/TrulyChxse
 
